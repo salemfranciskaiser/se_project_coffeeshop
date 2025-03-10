@@ -16,12 +16,13 @@
   font-size: 16px;
   line-height: 20px;
   display: block;
+  font-weight: 500;
 }
 
 .form__input {
-  font-family: "Inter";
-  font-size: 20px;
-  line-height: 30px;
+  font-family: "Inter", Arial, sans-serif;
+  font-size: 18px;
+  line-height: 28px;
   display: block;
   width: 100%;
   padding: 20px;
@@ -36,7 +37,7 @@
   width: 100%;
   color: #fff;
   border: none;
-  padding: 20px 20px 15px;
+  padding: 20px;
   border-radius: 4px;
   transition: background-color 0.3s;
   margin-bottom: 32px;
