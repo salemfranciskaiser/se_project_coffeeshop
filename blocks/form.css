@@ -38,11 +38,12 @@
   border: none;
   padding: 20px 20px 15px;
   border-radius: 4px;
-  transition: background-color 0.3s ease-in-out;
+  transition: background-color 0.3s;
   margin-bottom: 32px;
   font-family: "Inter", Arial, sans-serif;
   font-size: 16px;
   line-height: 20px;
+  cursor: pointer;
 }
 
 .form__button:hover {
