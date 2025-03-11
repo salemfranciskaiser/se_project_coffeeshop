@@ -29,10 +29,10 @@
 .header__description {
   margin: 28px 0 0;
   max-width: 683px;
-  font-family: "Inter", Arial, sans-serif;
+  font-family: "Noto-serif", "Times New Roman", serif;
   font-style: normal;
   font-weight: 500;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 30px;
 }
 

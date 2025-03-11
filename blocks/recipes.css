@@ -3,6 +3,9 @@
   background: url(../images/background_recipes.svg) no-repeat center / cover;
   background-color: #0a2750;
   padding: 100px 80px 215px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
 }
 
 .recipes__title {
@@ -11,7 +14,7 @@
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
-  text-align: center;
+  text-align: left;
   margin: 0;
 }
 
