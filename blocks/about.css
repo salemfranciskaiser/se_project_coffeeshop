@@ -39,7 +39,6 @@
   margin-top: 19px;
 }
 
-
 .about__paragraph {
   font-family: "Noto Serif", "Times New Roman", serif;
   font-size: 20px;
@@ -50,7 +49,7 @@
 .about__circle {
   position: absolute;
   border-radius: 50%;
-  background-color: #1878DC;
+  background-color: #1878dc;
   width: 426px;
   height: 426px;
   top: -152px;
@@ -58,6 +57,6 @@
   z-index: -1;
 }
 
-.about__circle_anitmation_blurred {
+.about__circle_animation_blurred {
   animation: pulsate 1.3s ease-in-out 0s infinite;
 }
